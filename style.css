@@ -1,0 +1,14 @@
+/* Estilos para a lista de produtos */
+#produtos li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.produto-imagem {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    margin-right: 10px;
+    border-radius: 8px;
+}
